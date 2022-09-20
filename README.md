@@ -1,7 +1,7 @@
 - #sobre mim.
 - Oi meu nome é Vitor.
 - 👀 Meu interesse é aprender programação.
-- 🌱 Estou aprendendo pragramação de JavaScript e scrath.
+- 🌱 Estou aprendendo pragramação de JavaScript e Scrath.
 - 💞️ Meu email para contato é vitor.strieder@escola.pr.gov.br
 
 <!---
